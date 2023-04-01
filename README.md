@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI~&fontSize=90" /
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🐖&fontSize=90" /
 </div>
     
 <div align=center>
