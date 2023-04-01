@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoByungHyun&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=ChoByungHyun&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=ChoByungHyun)
     </div>
 <!--
 **ChoByungHyun/ChoByungHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
