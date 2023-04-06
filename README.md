@@ -12,7 +12,7 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-7952B3?style=flat&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/C#-7952B3?style=flat&logo=.Net&logoColor=white" />
+	<img src="https://img.shields.io/badge/C#-#512BD4?style=flat&logo=dotnet&logoColor=white"/>
 </div>	
 <div align=center>
 	<br>
