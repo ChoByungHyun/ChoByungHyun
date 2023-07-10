@@ -35,7 +35,7 @@
 <br/>
 프로젝트 기간 23.06.05~23.06.28
 <br/>
-레파지토리 -  https://github.com/ChoByungHyun/final-03-code-space
+레파지토리 - https://github.com/ChoByungHyun/CodeSpace
 <!--
 **ChoByungHyun/ChoByungHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
