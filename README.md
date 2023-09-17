@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 	<img src="https://img.shields.io/badge/react_native-61DAFB?style=flat&logo=react&logoColor=white" />
 	<br/>
-	<img src="https://img.shields.io/badge/styled--components-orange" />
+	<img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/.Net-512BD4?style=flat&logo=.Net&logoColor=white"/>
 </div>	
