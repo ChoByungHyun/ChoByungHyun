@@ -14,6 +14,7 @@
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/.Net-512BD4?style=flat&logo=.Net&logoColor=white"/>
 </div>	
+<!--
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoByungHyun&layout=compact">
@@ -36,6 +37,7 @@
 프로젝트 기간 23.06.05~23.06.28
 <br/>
 레파지토리 - https://github.com/ChoByungHyun/CodeSpace
+-->
 <!--
 **ChoByungHyun/ChoByungHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
