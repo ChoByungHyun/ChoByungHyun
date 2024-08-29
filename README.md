@@ -27,6 +27,13 @@
 	<img src="https://img.shields.io/badge/.Net-512BD4?style=flat&logo=.Net&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/TensorFlow-00FFFF?style=flat&logo=tensorflow&logoColor=white" />
+<br/>
+	<br/>
+	<p> ⚙️ Cloud Management & Deployment </p>
+  	 <!-- AWS Services Icons -->
+   	 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=Amazon-S3&logoColor=white" />
+  	  <img src="https://img.shields.io/badge/Amazon%20CloudFront-F66700?style=flat&logo=Amazon-CloudFront&logoColor=white" />
+  	  <img src="https://img.shields.io/badge/Amazon%20Route%2053-232F3E?style=flat&logo=Amazon-Route-53&logoColor=white" />
 
 </div>	
 
